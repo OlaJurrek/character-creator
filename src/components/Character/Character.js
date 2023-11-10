@@ -16,7 +16,7 @@ function Character({
       fill="none"
       viewBox="0 0 1935 3033"
       className={styles.character}
-      width="500"
+      width="320"
       height="500"
     >
       <g>
